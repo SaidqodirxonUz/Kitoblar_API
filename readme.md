@@ -1,4 +1,4 @@
-API yasash
+API HAQIDA QISQACHA 
 
 Texnologiyalar
 express.js, lowdb(optional), jsonwebtoken
