@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "57763ae3-e864-40b2-9969-e2c4a60494a7",
+      "firstName": "Saidqodirxon",
+      "lastName": "Rahimov",
+      "email": "rsaidqodirxon@gmail.com",
+      "password": "$2b$08$1MIb5kZ8uVE1jScXWEyasema5OAUeHgnzoLHowmz01fyXmAKHKYty",
+      "role": "superAdmin"
+    }
+  ],
+  "books": [],
+  "authors": []
+}
